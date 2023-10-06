@@ -38,7 +38,7 @@ const decisionMaker = () => {
 // decisionMaker(); //for check
 
 refreshEl.addEventListener("click", () => {
-  window.location.href = "http://127.0.0.1:5500/dicee.html";
+  window.location.href = "https://ayush754dutta.github.io/dice-game/";
 });
 
 refreshEl.onclick = decisionMaker();
